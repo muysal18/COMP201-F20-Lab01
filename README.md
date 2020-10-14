@@ -27,4 +27,4 @@ echo $(uname -a) >> ../doc/info/info.txt
 ```
 You can run a bash script using `$bash` command so run the script and answer a simple question and you are done with the first exercise.
 
-
+[![Run on Repl.it](https://repl.it/badge/github/Farzin-Negahbani/COMP201-F20-Lab01)](https://repl.it/github/Farzin-Negahbani/COMP201-F20-Lab01)
